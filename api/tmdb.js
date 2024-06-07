@@ -1,4 +1,3 @@
-// api/tmdb.js
 import axios from 'axios';
 
 const API_KEY = 'e2b86820d3e99ee1f5a29d3ca39c8d95';
@@ -63,3 +62,11 @@ export const fetchTvShowDetails = async (id) => {
     return null;
   }
 };
+
+
+
+
+
+
+
+

@@ -1,4 +1,3 @@
-// screens/MoviesScreen.js
 import React, { useState, useEffect } from 'react';
 import { View, Text, FlatList, Button, Image, StyleSheet } from 'react-native';
 import { Picker } from '@react-native-picker/picker';
@@ -80,4 +79,31 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

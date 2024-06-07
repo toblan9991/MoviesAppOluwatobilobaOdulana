@@ -1,4 +1,3 @@
-// screens/TvShowDetails.js
 import React, { useState, useEffect } from 'react';
 import { View, Text, Image, StyleSheet } from 'react-native';
 import { fetchTvShowDetails } from '../api/tmdb';

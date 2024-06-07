@@ -1,4 +1,3 @@
-// screens/SearchScreen.js
 import React, { useState } from 'react';
 import { View, TextInput, Button, FlatList, Text, StyleSheet, Image } from 'react-native';
 import { Picker } from '@react-native-picker/picker';
@@ -102,6 +101,41 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
