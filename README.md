@@ -1,10 +1,15 @@
 STARTING THE PROJECT USING AN ANDROID PHONE
+
 Use this command to install all dependencies in command prompt terminal on Windows PC to give the node modules folder - yarn install
+
 Use this command to start the project - npx expo start 
+
 Scan the QR code with Expo Go (Android) or Press a to open on an Android phone
 
 OR
+
 Use this command to install all dependencies in command prompt terminal to give the node modules folder - yarn install
+
 Use this command to start the project while Expo Go is opened on your phone using the same internet for both android phone and Windows PC with your android phone cable connected to your 
 Windows PC - npx expo start --android
 
